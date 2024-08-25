@@ -10,39 +10,9 @@ International students often struggle with understanding course materials and pa
 
 ## Technology Stack
 
-- **Frontend:**
-  - HTML/CSS/JavaScript
-  - React.js or Angular (Optional)
-  - Bootstrap/Tailwind CSS for responsive design
-
-- **Backend:**
-  - Python
-  - Flask or Django for API management
-  - REST API for communication between frontend and backend
-
-- **Machine Learning & Automation:**
   - **UiPath Studio:** Used for task automation, including reading inputs, handling user dialogs, and interacting with files.
   - **UiPath AI Center:** Manages the Multilingual Translator model, enabling real-time language translation between 200+ languages.
-
-- **Data Handling:**
-  - Excel/CSV Files for language codes and translations
-  - SQLite/MySQL/PostgreSQL for scalable data storage
-
-- **Cloud Services:**
-  - AWS/GCP/Azure for deployment and hosting
-  - Amazon S3/Google Cloud Storage for file storage
-
-- **DevOps:**
-  - Git/GitHub for version control
-  - Jenkins/GitHub Actions for CI/CD pipeline
-
-- **Testing:**
-  - PyTest/Unittest for unit testing
-  - Selenium for end-to-end testing
-
-- **Security:**
-  - OAuth/JWT for secure authentication
-  - SSL/TLS for data encryption
+  - **Multilingual Translator Model:** Pre-trained model from UiPath AI Center capable of translating between 200+ languages.
 
 ## Key Features
 
@@ -82,4 +52,4 @@ International students often struggle with understanding course materials and pa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-real-time-translation-assistant.git
+   git clone https://github.com/deepak4194/AI-Based-Real-Time-Translation-Assistant.git
